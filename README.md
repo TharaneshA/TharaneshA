@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a 3rd year BTech student specializing in AI & ML at Vellore Institute of Technology, Chennai. Passionate about AI Research, ML Deployment, and System Design, I  work on projects involving Robotics, NLP, and Computer Vision.
+I'm a BTech student specializing in AI & ML at Vellore Institute of Technology, Chennai. Passionate about AI Research, ML Deployment, and System Design, I work on projects involving Robotics, NLP, and Computer Vision.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TharaneshA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
