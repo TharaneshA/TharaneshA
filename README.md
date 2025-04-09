@@ -1,72 +1,42 @@
-# Hi there! 👋 I'm Tharanesh A
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&center=true&vCenter=true&lines=Hey%2C+I'm+Tharanesh!)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00B8D4&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;BTech+Student+at+VIT+Chennai;Passionate+about+AI+Research;ML+Deployment+Enthusiast" alt="Typing SVG" />
-</div>
+<p align="left"> 
+ <img src="https://img.shields.io/github/followers/TharaneshA?color=00C4FF&label=Followers" />
+ <img src="https://img.shields.io/github/stars/TharaneshA?style=flat&color=00C4FF" />
+ <img src="https://komarev.com/ghpvc/?username=TharaneshA&color=00C4FF&style=flat" />
+</p>
 
-## 🚀 About Me
-
-I'm a BTech student specializing in AI & ML at Vellore Institute of Technology, Chennai. Passionate about AI Research, ML Deployment, and System Design, I work on projects involving Robotics, NLP, and Computer Vision.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TharaneshA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-</div>
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4EA94B?style=for-the-badge&logo=dialogflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### MLOps & Deployment
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-## 🏆 Notable Projects
-
-### Adaptive Sentiment Analysis
-![NLP](https://img.shields.io/badge/NLP-4EA94B?style=flat-square&logo=dialogflow&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Social Media Analytics](https://img.shields.io/badge/Social_Media_Analytics-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
-
-Developed a context-aware sentiment analysis model for dynamic social media environments. Explored LLM fine-tuning for real-time adaptability.
-
-### Automated Land Use & Cover Analysis
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![VQA](https://img.shields.io/badge/VQA-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-4EA94B?style=flat-square&logo=qgis&logoColor=white)
-
-Worked with aerial and remote sensing data to analyze land use patterns. Used Visual Question Answering (VQA) techniques for interactive analysis.
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharaneshA&theme=tokyo-night" alt="Contribution Graph" />
-</div>
-
-## 🤝 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TharaneshA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TharaneshA)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/TharaneshA)
+Hey there! I'm a B.Tech CSE student specializing in Artificial Intelligence & Machine Learning at VIT Chennai.  
+With a foundation in ML/DL, MLOps, Software development and AI tools, I enjoy solving real-world problems, experimenting with new tech, and building meaningful AI solutions.  
+I’m always open to collaborations, cool side projects, and learning something new every day.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TharaneshA&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
+## ⚙️ My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,tensorflow,pytorch,docker,aws,fastapi,git,github,windows,discord,linux,opencv,html,css,figma&perline=9" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TharaneshA&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharaneshA&theme=tokyo-night" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:tharanesh2k5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/TharaneshA"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/TharaneshA"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
+  <a href="https://github.com/TharaneshA"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a>
+</p>
