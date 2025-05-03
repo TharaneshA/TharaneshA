@@ -7,8 +7,7 @@
 </p>
 
 Hey there! I'm a B.Tech CSE student specializing in Artificial Intelligence & Machine Learning at VIT Chennai.  
-With a foundation in ML/DL, MLOps, Software development and AI tools, I enjoy solving real-world problems, experimenting with new tech, and building meaningful AI solutions.  
-I’m always open to collaborations, cool side projects, and learning something new every day.
+Passionate about integrating AI into real-world software to create practical, intelligent solutions. I enjoy working with LLMs, generative AI, and exploring how emerging tech can enhance user experiences. Open to Collaborations and cool side projects, learning something new everyday.
 
 ---
 
