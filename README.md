@@ -6,7 +6,7 @@
  <img src="https://komarev.com/ghpvc/?username=TharaneshA&color=00C4FF&style=flat" />
 </p>
 
-Hey there! I'm a B.Tech CSE student specializing in Artificial Intelligence & Machine Learning at VIT Chennai.  
+B.Tech CSE student specializing in Artificial Intelligence & Machine Learning at VIT Chennai.  
 Passionate about integrating AI into real-world software to create practical, intelligent solutions. I enjoy working with LLMs, generative AI, and exploring how emerging tech can enhance user experiences. Open to Collaborations and cool side projects, learning something new everyday.
 
 ---
